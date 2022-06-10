@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TpEnasticNdjam</string>
+    <string name="Name">Nom</string>
+    <string name="status">Statut</string>
+</resources>
